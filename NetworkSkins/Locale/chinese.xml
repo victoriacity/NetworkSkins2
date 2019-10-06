@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language UniqueName="zh" ReadableName="Nederlands" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2009/XMLSchema/XMLSchema.xsd">
   <Translations>
-    <Translation ID="MOD_DESCRIPTION" String="跟换路面，轨道以及其他交通网络的外观" />
+    <Translation ID="MOD_DESCRIPTION" String="更换路面，轨道以及其他交通网络的外观" />
     <Translation ID="LABEL_NONE" String="无" />
     <Translation ID="LABEL_DEFAULT" String="默认" />
     <Translation ID="LABEL_SEARCH" String="搜索" />
@@ -12,9 +12,9 @@
     <Translation ID="LABEL_GRAVEL" String="砾石" />
     <Translation ID="LABEL_RUINED" String="土" />
     <Translation ID="LABEL_ELEVATED" String="高于地面物体" />
-    <Translation ID="LABEL_ELEVATEDMIDDLE" String="高架桥支柱" />
+    <Translation ID="LABEL_ELEVATEDMIDDLE" String="高架桥墩" />
     <Translation ID="LABEL_BRIDGE" String="桥梁" />
-    <Translation ID="LABEL_BRIDGEMIDDLE" String="桥梁支柱" />
+    <Translation ID="LABEL_BRIDGEMIDDLE" String="大桥桥墩" />
     <Translation ID="LABEL_DISTANCE" String="距离" />
     <Translation ID="LABEL_RED" String="红" />
     <Translation ID="LABEL_GREEN" String="绿" />
@@ -29,17 +29,17 @@
     <Translation ID="TOOLTIP_TREES" String="树木" />
     <Translation ID="TOOLTIP_LIGHTS" String="光源" />
     <Translation ID="TOOLTIP_SURFACE" String="地面" />
-    <Translation ID="TOOLTIP_PILLARS" String="柱子" />
-    <Translation ID="TOOLTIP_CATENARY" String="复链吊架" />
+    <Translation ID="TOOLTIP_PILLARS" String="桥墩" />
+    <Translation ID="TOOLTIP_CATENARY" String="铁路接触网" />
     <Translation ID="TOOLTIP_COLOR" String="颜色" />
     <Translation ID="TOOLTIP_SETTINGS" String="设置" />
-    <Translation ID="TOOLTIP_PIPETTE" String="吸管&#10;将当前选择的交通皮肤换为鼠标点击部分的皮肤" />
+    <Translation ID="TOOLTIP_PIPETTE" String="吸管&#10;将当前选择的道路皮肤换为鼠标点击部分的皮肤" />
     <Translation ID="TOOLTIP_LOCK" String="锁定同时修改所有道路" />
     <Translation ID="TOOLTIP_ADDFAVOURITE_ADDBLACKLIST" String="加入收藏（鼠标左键），拉入黑名单（鼠标右键）" />
     <Translation ID="TOOLTIP_REMOVEFAVOURITE" String="移出收藏（鼠标左键），加入黑名单（鼠标右键）" />
     <Translation ID="TOOLTIP_REMOVEBLACKLIST" String="加入收藏（鼠标左键），移出黑名单（鼠标右键）" />
-    <Translation ID="TOOLTIP_RESETCURRENT" String="重置当前选择交通的设置" />
-    <Translation ID="TOOLTIP_BUTTON_SAVE_MAXREACHED" String="已达到收藏颜色最高值" />
+    <Translation ID="TOOLTIP_RESETCURRENT" String="重置当前选择道路的设置" />
+    <Translation ID="TOOLTIP_BUTTON_SAVE_MAXREACHED" String="已达到收藏颜色的最大数量" />
     <Translation ID="TOOLTIP_BUTTON_SAVE_COLOREXISTS" String="此颜色已在收藏中" />
     <Translation ID="TOOLTIP_BUTTON_SAVE" String="收藏颜色" />
     <Translation ID="BUTTON_RESET" String="重置" />
